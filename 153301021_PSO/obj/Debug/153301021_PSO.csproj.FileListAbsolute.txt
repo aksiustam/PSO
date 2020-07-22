@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\bin\Debug\153301021_PSO.exe.config
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\153301021_PSO.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\_153301021_PSO.Form1.resources
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\_153301021_PSO.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\153301021_PSO.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\bin\Debug\153301021_PSO.exe
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\bin\Debug\153301021_PSO.pdb
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\153301021_PSO.exe
+c:\users\pc\documents\visual studio 2012\Projects\153301021_PSO\153301021_PSO\obj\Debug\153301021_PSO.pdb
