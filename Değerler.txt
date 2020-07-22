@@ -1,0 +1,11 @@
+Six Hump Back Fonksiyonu Max-Min ( -5 , 5 ) de 2 Gen değeri ile
+10 Populasyonda C = 2 ve 20 Jenerasyondan sonra
+
+
+BestGen_PersonalScore = -1,0204
+BestGen_PersonalGen_1 = 0,0591
+BestGen_PersonalGen_2 = -0,7407
+
+BestGen in normal Skoru Speed hesaplamasına alınmadı.Değerleri yazılan;
+BestGen_Score = 20,8855 ve genleri 2,1 ve -1,6 olmasına rağmen 
+bestgen in personal PGen leri speed hesaplamasında kullanıldı. Karışıklık olmasın...
